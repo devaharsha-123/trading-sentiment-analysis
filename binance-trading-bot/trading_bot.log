@@ -1,0 +1,2 @@
+2026-03-28 13:33:36,767 - INFO - Order placed: {'orderId': 123456, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': 'market_price'}
+2026-03-28 13:33:43,255 - INFO - Order placed: {'orderId': 123456, 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '60000'}
